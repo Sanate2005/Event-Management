@@ -1,0 +1,986 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final14/True/SqlTable/dbo.Locations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final14/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\ievenetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\ievenetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final13/True/SqlTable/dbo.Purchases.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\buyticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\buyticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\validateticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\validateticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final13/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250924141145_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final-back\\Migrations\\20250924141145_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Tickets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Purchases.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\eventparticipantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\eventparticipantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\statusenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\statusenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\controllers\\eventticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\controllers\\eventticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Tickets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\final-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\final-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Tickets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\addevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\source\\Final-back\\Final-back\\Migrations\\20250828130814_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final9/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\abstraction\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\abstraction\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final9/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\mails\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\mails\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\services\\implementation\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\services\\implementation\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250828130848_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final-back\\Migrations\\20250828130848_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\migrations\\20250924165528_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\migrations\\20250924165528_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|c:\\users\\sanate\\desktop\\full project\\final-back\\final-back\\requests\\createeventwithticketsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F569F-4F43-4225-B9D2-CCD2BE784341}|Final-back\\Final-back.csproj|solutionrelative:final-back\\requests\\createeventwithticketsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final14/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-24T16:56:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250924165528_init.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250924165528_init.cs",
+              "RelativeDocumentMoniker": "Final-back\\Migrations\\20250924165528_init.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250924165528_init.cs",
+              "RelativeToolTip": "Final-back\\Migrations\\20250924165528_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:55:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:51:55.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Location.cs",
+              "RelativeToolTip": "Final-back\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:18:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:45:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\User.cs",
+              "RelativeToolTip": "Final-back\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:04:40.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwGYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:54:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Locations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final14/True/SqlTable/dbo.Locations.sql",
+              "ToolTip": "dbo.Locations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-24T17:04:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Purchases [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final13/True/SqlTable/dbo.Purchases.sql",
+              "ToolTip": "dbo.Purchases [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-24T14:20:30.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEvenetService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IEvenetService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IEvenetService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IEvenetService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IEvenetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:28:55.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\EventService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\EventService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\EventService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\EventService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwF8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:37:59.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Final-back\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Data\\DataContext.cs",
+              "RelativeToolTip": "Final-back\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:55:20.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\BuyTicketRequest.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\BuyTicketRequest.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\BuyTicketRequest.cs",
+              "RelativeToolTip": "Final-back\\Requests\\BuyTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T13:41:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidateTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\ValidateTicket.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\ValidateTicket.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\ValidateTicket.cs",
+              "RelativeToolTip": "Final-back\\Requests\\ValidateTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:26:48.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Ticket.cs",
+              "RelativeToolTip": "Final-back\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:53:38.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\TicketService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\TicketService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\TicketService.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:41:08.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\ITicketService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\ITicketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:33:45.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final13/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-24T14:13:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250924141145_init.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250924141145_init.cs",
+              "RelativeDocumentMoniker": "Final-back\\Migrations\\20250924141145_init.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250924141145_init.cs",
+              "RelativeToolTip": "Final-back\\Migrations\\20250924141145_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:11:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-24T14:04:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Tickets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "dbo.Tickets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T13:59:40.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Purchases [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Purchases.sql",
+              "ToolTip": "dbo.Purchases [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T13:59:44.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:43:35.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventParticipantsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\EventParticipantsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventParticipantsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\EventParticipantsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:52:18.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Program.cs",
+              "RelativeDocumentMoniker": "Final-back\\Program.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Program.cs",
+              "RelativeToolTip": "Final-back\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:43:43.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Event.cs",
+              "RelativeToolTip": "Final-back\\Models\\Event.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:52:32.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateEventWithTicketsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\CreateEventWithTicketsRequest.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\CreateEventWithTicketsRequest.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\CreateEventWithTicketsRequest.cs",
+              "RelativeToolTip": "Final-back\\Requests\\CreateEventWithTicketsRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:13:38.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\AnalyticsService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\AnalyticsService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\AnalyticsService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:42:54.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Purchase.cs",
+              "RelativeToolTip": "Final-back\\Models\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:54:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StatusEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\StatusEnums.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\StatusEnums.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\StatusEnums.cs",
+              "RelativeToolTip": "Final-back\\Models\\StatusEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:15:18.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IAnalyticsService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IAnalyticsService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IAnalyticsService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IAnalyticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:34:25.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:53:01.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\UserToken.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\UserToken.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\UserToken.cs",
+              "RelativeToolTip": "Final-back\\Models\\UserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:09:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventTicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventTicketsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\EventTicketsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\EventTicketsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\EventTicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:51:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "Final-back\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "Final-back\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:52:42.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T13:18:40.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final12/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T13:58:56.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Tickets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "dbo.Tickets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-22T13:22:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Final-back\\Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Models\\Participant.cs",
+              "RelativeToolTip": "Final-back\\Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:54:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Final-back\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Final-back\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:48:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final11/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-21T15:55:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\JWTService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\JWTService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\JWTService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\JWTService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:35:55.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:57:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IJWTService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IJWTService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IJWTService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IJWTService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IJWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:35:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:57:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Final-back.csproj",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Final-back.csproj",
+              "RelativeDocumentMoniker": "Final-back\\Final-back.csproj",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Final-back.csproj",
+              "RelativeToolTip": "Final-back\\Final-back.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T13:42:19.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-28T13:17:31.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Tickets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "dbo.Tickets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-21T13:54:50.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final10/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-28T13:15:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IAuthService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:34:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\RegisterUser.cs",
+              "RelativeToolTip": "Final-back\\Requests\\RegisterUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:27:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\LoginUser.cs",
+              "RelativeToolTip": "Final-back\\Requests\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:27:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\AddUser.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\AddUser.cs",
+              "RelativeToolTip": "Final-back\\Requests\\AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:57:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\LocationModel.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\LocationModel.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\LocationModel.cs",
+              "RelativeToolTip": "Final-back\\Requests\\LocationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:24:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\AddEvent.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\AddEvent.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\AddEvent.cs",
+              "RelativeToolTip": "Final-back\\Requests\\AddEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:23:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250828130848_init.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250828130848_init.cs",
+              "RelativeDocumentMoniker": "Final-back\\Migrations\\20250828130848_init.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Migrations\\20250828130848_init.cs",
+              "RelativeToolTip": "Final-back\\Migrations\\20250828130848_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:08:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250828130814_init.cs",
+              "DocumentMoniker": "D:\\source\\Final-back\\Final-back\\Migrations\\20250828130814_init.cs",
+              "ToolTip": "D:\\source\\Final-back\\Final-back\\Migrations\\20250828130814_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:08:14.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final9/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-28T12:31:12.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Abstraction\\IParticipantService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Abstraction\\IParticipantService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Abstraction\\IParticipantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:34:07.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Final9/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-28T12:21:06.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Mails\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Final-back\\Mails\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Mails\\EmailSender.cs",
+              "RelativeToolTip": "Final-back\\Mails\\EmailSender.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:09:39.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "Final-back\\Services\\Implementation\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Services\\Implementation\\ParticipantService.cs",
+              "RelativeToolTip": "Final-back\\Services\\Implementation\\ParticipantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:42:08.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\EventDetails.cs",
+              "RelativeDocumentMoniker": "Final-back\\Requests\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\Sanate\\Desktop\\Full project\\Final-back\\Final-back\\Requests\\EventDetails.cs",
+              "RelativeToolTip": "Final-back\\Requests\\EventDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:24:36.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

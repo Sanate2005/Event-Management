@@ -1,0 +1,136 @@
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.AssemblyReference.cache
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.AssemblyInfoInputs.cache
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.AssemblyInfo.cs
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.CoreCompileInputs.cache
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.MvcApplicationPartsAssemblyInfo.cs
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.MvcApplicationPartsAssemblyInfo.cache
+D:\source\Final-back\Final-back\bin\Debug\net8.0\appsettings.Development.json
+D:\source\Final-back\Final-back\bin\Debug\net8.0\appsettings.json
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Final-back.exe
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Final-back.deps.json
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Final-back.runtimeconfig.json
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Final-back.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Final-back.pdb
+D:\source\Final-back\Final-back\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Humanizer.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.build.json
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.development.json
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.Final-back.Microsoft.AspNetCore.StaticWebAssets.props
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.build.Final-back.props
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Final-back.props
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Final-back.props
+D:\source\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.pack.json
+D:\source\Final-back\Final-back\obj\Debug\net8.0\scopedcss\bundle\Final-back.styles.css
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.Up2Date
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.dll
+D:\source\Final-back\Final-back\obj\Debug\net8.0\refint\Final-back.dll
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.pdb
+D:\source\Final-back\Final-back\obj\Debug\net8.0\Final-back.genruntimeconfig.cache
+D:\source\Final-back\Final-back\obj\Debug\net8.0\ref\Final-back.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\appsettings.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Final-back.exe
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Final-back.deps.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Final-back.runtimeconfig.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Final-back.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Final-back.pdb
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.AssemblyReference.cache
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.AssemblyInfoInputs.cache
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.AssemblyInfo.cs
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.CoreCompileInputs.cache
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.Final-back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.build.Final-back.props
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Final-back.props
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Final-back.props
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\scopedcss\bundle\Final-back.styles.css
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.csproj.Up2Date
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\refint\Final-back.dll
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.pdb
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\Final-back.genruntimeconfig.cache
+C:\Users\Sanate\Desktop\Full project\Final-back\Final-back\obj\Debug\net8.0\ref\Final-back.dll
